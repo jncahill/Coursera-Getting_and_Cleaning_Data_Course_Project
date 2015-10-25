@@ -27,14 +27,11 @@ Others files provided feature names and activity names.
 
 * Changed the variable names to be more descriptive,  including FreqMean.  
 Here's how some of them compare with the original names.
-       
-               NEW                            ORIGINAL
-                 
-      	TimeBodyAcceleration-Mean()-X               tBodyAcc-mean()-X               
 
-       TimeBodyGyro-Mean()-X - v                   tBodyGyro-mean()-X              
-
-       FreqBodyBodyGyroJerkMagnitude-StDev()       fBodyBodyGyroJerkMag-std()      
+                       NEW                                            ORIGINAL
+               TimeBodyAcceleration-Mean()-X               tBodyAcc-mean()-X
+               TimeBodyGyro-Mean()-X                       tBodyGyro-mean()-X
+               FreqBodyBodyGyroJerkMagnitude-StDev()       fBodyBodyGyroJerkMag-std()      
 
 
 
