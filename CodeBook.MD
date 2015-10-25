@@ -26,7 +26,7 @@ Others files provided feature names and activity names.
 * Changed the acitivity codes to names in the data frame.
 
 * Changed the variable names to be more descriptive,  including FreqMean.  
-Here's how some of them compare with the original names. A full list of variables is shown at bend of code book. 
+Here's how some of them compare with the original names. A full list of variables is shown at end of code book. 
 
                        NEW                                            ORIGINAL
                TimeBodyAcceleration-Mean()-X               tBodyAcc-mean()-X
