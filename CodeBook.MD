@@ -17,7 +17,7 @@ In addition both training and test data contained folders called 'Inertial Signa
 
 Others files provided feature names and activity names.
 
-# Tidy Data Frame
+## Tidy Data Frame
 
 * The original data were combine into a single data frame of 10299 obs. and 563 var. The extra two variables are for subject ID and Activity.
 
@@ -37,7 +37,7 @@ Here's how some of them compare with the original names. A full list
 
 * Created a tidy data frame which  with the average of each variable for each activity and each subject. The new tidy data frame has 180 observations and 88 variables in the wide format.
 
-# Full List of variables
+## Full List of variables
 
  [1] "subjectID"                                        "Activity"                                        
  [3] "TimeBodyAcceleration-Mean()-X" .................... "TimeBodyAcceleration-Mean()-Y"                   
