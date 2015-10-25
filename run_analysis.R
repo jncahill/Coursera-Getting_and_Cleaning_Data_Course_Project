@@ -90,6 +90,8 @@ names(df)<-gsub("jerk", "Jerk", names(df)); names(df)<-gsub("mean()", "Mean", na
 names(df)<-gsub("mean", "Mean", names(df)); names(df)<-gsub("Acc", "Acceleration", names(df));
 names(df)<-gsub("Mag", "Magnitude", names(df))
 
+names(df)
+
 ##################################################################################################
 
 # Step 5: From the data set in step 4, creates a second, independent tidy data set
