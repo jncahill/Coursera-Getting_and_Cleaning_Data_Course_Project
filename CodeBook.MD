@@ -37,7 +37,7 @@ Here's how some of them compare with the original names. A full list
 
 * Created a tidy data frame which  with the average of each variable for each activity and each subject. The new tidy data frame has 180 observations and 88 variables in the wide format.
 
-# Full list of varaibles
+# Full List of variables
 
  [1] "subjectID"                                        "Activity"                                        
  [3] "TimeBodyAcceleration-Mean()-X"                    "TimeBodyAcceleration-Mean()-Y"                   
